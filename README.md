@@ -11,12 +11,12 @@ The purpose of this analysis is to determine the effectiveness of kickstarter fu
 ### Analysis of Outcomes Based on Launch Date
 
 In order to visualize campaign outcomes ("Successful", "Failed", and "Canceled"), this program generates a chart from a pivot table based on launch dates. Our analysis resulted in the following pivot chart:
-![Outcomes Based on Launch Date](assets/images/Theater_Outcomes_vs_Launch.png)
+![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/103288980/166168889-8e1eae34-b48f-4b57-8838-4681dc0e3c2e.png)
 
 ### Analysis of Outcomes Based on Goals
 
 In order to visualize the percentage of successful, failed, and cancelled plays; this program generates a chart based on the tiered funding goal amounts. The program applies the COUNTIFS() function to populate the table used to chart the outcome percentage (Y-Axis) and funding goal amount tiers (X-Axis). Our analysis resulted in the following line chart:
-![Outcomes Based on Goals](assets/images/Outcomes_vs_Goals.png)
+![Outcomes_vs_Goals](https://user-images.githubusercontent.com/103288980/166168890-63d9f4b0-4076-4c00-8b48-c2b0bfff42a4.png)
 
 ### Challenges and Difficulties Encountered
 
